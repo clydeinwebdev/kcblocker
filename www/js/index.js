@@ -19,7 +19,11 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
+        //this.bindEvents();
+        this.render();
+    },
+    render: function(){
+        
     },
     // Bind Event Listeners
     //
